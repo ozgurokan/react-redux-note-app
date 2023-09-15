@@ -1,7 +1,7 @@
 # react-redux-note-app
 [Patika Dev](www.patika.dev)'in 6 aylık full stack dev bootcampi kapsamında yaptığım react-redux-note-app projesi
 
-Projenin demosuna [buradan]() ulaşabilirsiniz !
+Projenin demosuna [buradan](https://roaring-pothos-94341d.netlify.app/) ulaşabilirsiniz !
 
 ### Gereksinimler
 - Textarea'a ya yazılacak olan notlar kayıt edilip listelenmelidir.
